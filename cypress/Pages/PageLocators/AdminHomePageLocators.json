@@ -1,0 +1,14 @@
+{
+    "locators":
+    {
+       "titleH1TEXT" : ".govuk-heading-l",
+       "viewTab" : ".govuk-tabs__list-item--selected > .govuk-tabs__tab",
+       "shortCutsTab" : ":nth-child(2) > .govuk-tabs__tab",
+       "activityTab" : ":nth-child(3) > .govuk-tabs__tab",
+       "editTab" : ":nth-child(4) > .govuk-tabs__tab",
+       "submissionsTab" : ":nth-child(5) > .govuk-tabs__tab",
+       "manageDisplayTab" : ":nth-child(6) > .govuk-tabs__tab",
+       "savedSearches" : ":nth-child(7) > .govuk-tabs__tab",
+       "developerTab" : ":nth-child(8) > .govuk-tabs__tab"
+    }
+}

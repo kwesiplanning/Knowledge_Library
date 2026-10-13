@@ -1,0 +1,44 @@
+{
+       "locators" : 
+       {
+        "applyToSelectedItemsBtn" : "#edit-submit",
+        "manageContentH1" : ".page-title",
+        "titleTxtBx" : "#edit-title",
+        "alternativeTxtBx" : "#edit-field-alternative-title-value",
+        "contentTypeDrpDwn" : "#edit-type",
+        "publishedStatusDrpDwn" : "#edit-type",
+        "readingListDrpDwn" : "#edit_readinglist_chosen > .chosen-single > span",
+        "seriesDrpDwn" : "#edit_series_chosen > .chosen-single > span",
+        "classificationsTxtBx" : ".js-form-item-field-kl-classification-target-id > .form-item__label",
+        "docIDTxtBx" : "#edit-field-kl-doc-id-value",
+        "modifiedDateFromTxtBx" : "#edit-modified-date-from",
+        "modifiedDateToTxtBx" : "#edit-modified-date-to",
+        "publicationDateFromTxtBx" : "#edit-field-date-value",
+        "publicationDateToTxtBx" : "#edit-field-date-value-to",
+        "folderTxtBx" : "#edit_field_kl_doc_folder_target_id_chosen",
+        "selectSearchResult" : "#edit-field-kl-doc-folder-target-id-chosen-search-result-409 > em",
+        "authorTxtBx" : "#edit_field_kl_authors_target_id_chosen > .chosen-choices",
+        "searchBtn" : "#edit-submit-manage-contents",
+        "resetBtn" : "#edit-reset",
+        "compoundDocTitle" : "tbody > .views-form__bulk-operations-row > .views-field-title > a",
+
+        "titleHdgn" : "#view-title-table-column > a",
+        "altrntveTitle" : "#view-field-alternative-title-table-column > a",
+        "fileSize" : "#view-field-kl-doc-file-size-table-column",
+        "updated" : "#view-changed-table-column > a",
+        "horizonLstModified" : "#view-field-kl-vermdate-table-column > a",
+        "publicationDate" : "#view-field-date-table-column > a",
+        "readinglist" :"#view-field-kl-reading-lists-table-column",
+        "folder" : "#view-field-kl-doc-folder-table-column",
+        "contentType" : "#view-type-table-column > a",
+        "authors" : "#view-field-kl-authors-table-column",
+        "status" : "#view-status-table-column > a",
+        "operations" : "#view-operations-table-column",
+
+        "selectAllChkBx" : ".select-all > .form-checkbox",
+        "actionDropDown" : "#edit-action",
+        "resultsMessage" : "#edit-status--2",
+
+        "vboTable" : ".vbo-table"
+    }
+}

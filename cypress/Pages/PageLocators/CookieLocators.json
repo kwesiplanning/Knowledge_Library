@@ -1,0 +1,11 @@
+{
+    "locators" : 
+        {
+            "cookiesTitle" : ".govuk-cookie-banner__heading",
+            "cookieText1" : "#govuk-cookies-alert > .govuk-grid-row > .govuk-grid-column-two-thirds > .govuk-cookie-banner__content > :nth-child(1)",
+            "cookieText2" : ".govuk-cookie-banner__content > :nth-child(2)",
+            "btnAccept" : "[value='accept']",
+            "btnReject" : "[value='reject']",
+            "linkViewCookies" : ".govuk-button-group > .govuk-link"
+        }
+}

@@ -1,0 +1,11 @@
+Library test improvements:
+
+1. Separate test cases into Page Object Model page designs.
+2. Separate POM pages into locator and behaviour/methods, where behaviour pages build on locator page abstractions.
+3. Remove tests that navigate through the folder hierarchy.
+4. Update verify page tests to not just check for visibility of locators,
+    but for unique user content, therefore, verify against actual title 'text'
+    not just visibility. This work has begun on the Add Compound Document tests
+    but should be retro fitted to previous tests.
+5. When adding text as a parameter for a function, consider creating a Json
+    object of the text to keep it organised.

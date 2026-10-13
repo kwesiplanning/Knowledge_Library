@@ -1,0 +1,8 @@
+{
+    "locators": {
+        "popup_H1" : "#ui-id-3",
+        "popup_Txt" : "#node-kl-compound-document-delete-form--2VoX2oJh0U0",
+        "popup_Accept_Btn" : ".ui-dialog-buttonset > .button--primary",
+        "popup_Cancel_Btn" : ".ui-dialog-buttonset > .dialog-cancel"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "locators" :
+    {
+        "titleH1TEXT" : ".govuk-heading-l > span",
+        "docTitleTEXT" : "#edit-title-0-value",
+        "descriptionTEXT" : "#edit-field-kl-doc-file-0-description--vgdBSHFIvWU",
+
+        "fileUpload" : "#edit-field-kl-doc-file-0-upload",
+        "openDocumentBtn" : "[target='_blank']",
+        "downLoadBtn" : "[download='']",
+        "bestBetTEXT" : "#edit-field-best-bet-0-value",
+
+        "altTitleTEXT" : ":nth-child(1) > .govuk-summary-list__key",
+        "publicationsDateTEXT" : ":nth-child(2) > .govuk-summary-list__key",
+        "archivedTEXT" : ":nth-child(3) > .govuk-summary-list__key",
+        "authorsTEXT" : ":nth-child(4) > .govuk-summary-list__key",
+        "authorsTEXTChoices" : "#edit_field_kl_authors_chosen > .chosen-choices",
+
+        "readinglistTEXT" : "#block-govuk-pins-content > :nth-child(7)",
+        "classificationTEXT" : "#block-govuk-pins-content > :nth-child(9)"
+    }    
+    
+}

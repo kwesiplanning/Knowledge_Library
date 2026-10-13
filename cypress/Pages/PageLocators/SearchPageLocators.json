@@ -1,0 +1,33 @@
+{
+    "locators":
+    {
+        "titleH1TEXT" : ".govuk-heading-l",
+        "searchBtn" : "#edit-submit-lib-search--2",
+        "smartRdBtn" : "#edit-fuzziness-all--2",
+        "exactRdBtn" : "#edit-fuzziness-1--2",
+        "searchBannerBox" : "#edit-search-api-fulltext--2",
+        "searchTxtBxViaHmPge" : "#edit-search-api-fulltext--3",
+        "advancedOptions" : ".gem-c-search__submit",
+        "searchHomeButton" : "#edit-submit-lib-search--2",
+        "searchHomeBreadCrumbsLink" : ".govuk-breadcrumbs__link",
+        "matchesFoundTxt" : "header > h2",
+
+        "publicationDateHeading" : "#collapsiblock-wrapper-govuk_pins_publicationdate > .govuk-heading-s",
+        "fct2012" : "#collapsiblock-wrapper-govuk_pins_publicationdate > .govuk-heading-s",
+        "fct2012_106" : "#block-govuk-pins-publicationdate > .facets-widget-checkbox > .facet-inactive > :nth-child(1) > label > .facet-item__count",
+        "publicationDateDrpDwn" : "#\\#collapse-govuk_pins_publicationdate > .govuk-heading-s",
+        "publicationsDateChkBx" : "#publication-date-2012",
+        "publicationShowMoreLink" : "#collapse-govuk_pins_publicationdate-content > .facets-soft-limit-link",
+
+        "authorsDrpDwn" : "#\\#collapse-govuk_pins_authors > .govuk-heading-s",
+        "authorsShowMoreLink" : "#collapse-govuk_pins_authors-content > .facets-soft-limit-link",
+        "authorsHMPCkBx" : "#authors-16028",
+        "authorsHMPLbl" : "#block-govuk-pins-authors > .facets-widget-checkbox > .facet-inactive > :nth-child(1) > label > .facet-item__value",
+        "authorsHMPCount" : "#block-govuk-pins-authors > .facets-widget-checkbox > .facet-inactive > :nth-child(1) > label > .facet-item__count",
+
+        "contentTypeHeading" : "#collapsiblock-wrapper-govuk_pins_contenttype > .govuk-heading-s",
+        "seriesTypeHeading" : "#collapsiblock-wrapper-govuk_pins_series > .govuk-heading-s",
+        "classificationTypeHeading" : "#collapsiblock-wrapper-govuk_pins_series > .govuk-heading-s"
+        
+    }
+}

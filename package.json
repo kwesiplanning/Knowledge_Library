@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "cypress": "^13.17.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-xpath": "^2.0.1"
+  },
+  "scripts": {
+    "e2e:chrome": "cypress run --browser chrome"
+  }
+}

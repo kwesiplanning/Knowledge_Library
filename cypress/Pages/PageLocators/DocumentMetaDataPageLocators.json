@@ -1,0 +1,19 @@
+{
+    "locators":
+    {
+        "viewTab":":nth-child(1) > .govuk-tabs__tab",  
+        "editTab":":nth-child(2) > .govuk-tabs__tab",
+        "manageDisplayTab":":nth-child(3) > .govuk-tabs__tab",
+        "deleteTab":":nth-child(3) > .govuk-tabs__tab",
+        "revisionsTab":":nth-child(5) > .govuk-tabs__tab",
+        "cloneTab":":nth-child(6) > .govuk-tabs__tab",
+        "developerTab":":nth-child(7) > .govuk-tabs__tab",
+
+        "externalLinkUrl" : ".ext", 
+        "volumeTEXT" : ":nth-child(4) > .govuk-summary-list__value",
+
+        "deleteTaBDELETE":"#edit-submit",
+        "deleteTabCANCEL":"#edit-cancel"
+    } 
+
+}

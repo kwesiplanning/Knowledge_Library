@@ -1,0 +1,52 @@
+{
+    "locators" :
+    {
+        "titleH1TEXT" : ".govuk-heading-l > span",
+        "docFolderLabelTEXT" : "#edit-field-kl-doc-folder-wrapper > .js-form-item > .form-item__label",
+        "docTypeDropDown" : "#edit-field-kl-doc-folder-0-target-id--level-0",
+        "docTitleTEXT" : "[id^='edit-title-0-value']",
+        "descriptionTEXT" : "#edit-field-kl-doc-file-0-description--vgdBSHFIvWU",
+
+        "fileUpload" : "[id^='edit-field-kl-doc-file-0-upload']",
+        "openDocumentBtn" : "[target='_blank']",
+        "downLoadBtn" : "[download='']",
+
+        "altTitleTEXT" : "#edit-field-alternative-title-0-value",
+        "bestBetTEXT" : "#edit-field-best-bet-0-value",
+
+        "authorsLabelTEXT" : "#edit-field-kl-authors-wrapper > .js-form-item > .form-item__label",
+        "authorsTEXT" : "#edit_field_kl_authors_chosen",
+        "authorsTEXTChoices" : "#edit_field_kl_authors_chosen > .chosen-choices",
+        "authorsTEXTChoice1" : "[data-value='23983'] > span",
+        "authorsTEXTChoice2" : "[data-value='18659'] > span",
+
+        "publicationsDateLabelTEXT" : "#edit-field-date-0 > .fieldset__legend > .fieldset__label",
+        "publicationsDateTEXT" : ":nth-child(2) > .govuk-summary-list__key",
+        "publicationDateSelector" : "#edit-field-date-0-value-date",
+
+        "seriesLabelTEXT" : "#edit-field-kl-series-wrapper > .js-form-item > .form-item__label",
+        "seriesTEXT" : "#edit_field_kl_series_chosen",
+        "seriesTEXTChoices" : "#edit_field_kl_series_chosen > .chosen-choices", 
+        "seriesTEXTChoice1" : "[data-value='24582'] > span", 
+        "seriesTEXTChoice2" : "[data-value='16580'] > span",        
+
+        "volumeTEXT" : "[id^='#edit-field-volume-0-value--']", 
+        "archivedTEXT" : ":nth-child(3) > .govuk-summary-list__key",
+        "readingListPlaceHolder" : "#edit_field_kl_reading_lists_chosen > .chosen-choices > .search-field > .chosen-search-input",
+        "readingListTEXTChoices" : "#edit_field_kl_reading_lists_chosen",
+        "readingListTEXTChoice1" : "[id^='edit_field_kl_reading_lists']",
+
+
+        "readingListTEXT" : "#block-govuk-pins-content > :nth-child(7)",
+        "classificationTEXT" : "#block-govuk-pins-content > :nth-child(9)",
+        "classificationTEXTChoices" : "#edit_field_kl_classification_chosen > .chosen-choices",
+        "classificationTEXTChoice1" : "[data-value='18349'] > span",
+        "classificationTEXTChoice2" : "[data-value='18254'] > span",
+
+        "externalLinksUrlTEXT" : "#edit-field-links-0-uri",
+        "externalLinksTitleTEXT" : "#edit-field-links-0-title",
+
+        "saveBtnFooter" : ".layout-region--footer > .layout-region__content"
+    }    
+    
+}

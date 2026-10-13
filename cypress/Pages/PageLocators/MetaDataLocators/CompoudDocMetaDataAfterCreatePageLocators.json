@@ -1,0 +1,86 @@
+{
+    "locators" :
+    {
+        "titleH1TEXT" : ".govuk-heading-l > span",
+        "subTitleH2TEXT" : "#block-govuk-pins-views-block-compound-document-list-block-1 > .govuk-heading-s",
+
+        "columnHd1_Title" : "#view-title-table-column",
+        "columnHd2_Alt_Title" : "#view-field-alternative-title-table-column",
+        "columnHd3_Pub_Date" : "#view-field-date-table-column",
+        "columnHd4_Authors" : "#view-field-kl-authors-table-column",
+
+        "Alt_Title" : ":nth-child(2) > .label",
+        "Alt_Title_Value" : ":nth-child(2) > .field-value",
+
+        "showRowWeight" : "#field-documents-add-more-wrapper > .form-item--multiple > .tabledrag-toggle-weight-wrapper > .link > .action-link",
+
+        "rowWeights0" : "#edit-field-documents-0-weight",
+        "rowWeights1" : "#edit-field-documents-1-weight",
+        "rowWeights2" : "#edit-field-documents-2-weight",
+        "rowWeights3" : "#edit-field-documents-3-weight",
+
+        "classification_Lbl" : "#block-govuk-pins-content > :nth-child(4)",
+        "classification_Value1" : ":nth-child(5) > :nth-child(1) > a",
+        "classification_Value2" : ":nth-child(5) > :nth-child(2) > a",
+
+        "series_Lbl" : "#block-govuk-pins-content > :nth-child(8)",
+        "series_Value1" : ":nth-child(9) > :nth-child(1) > a",
+        "series_Value2" : ":nth-child(9) > :nth-child(2) > a",
+
+        "volume_Lbl" : ".volume-wrapperfield-label-inline > .label",
+        "volume_Value" : ".volume",
+
+        "readingList_Lbl" : "#block-govuk-pins-content > :nth-child(13)",
+        "readingList_Value1" : ":nth-child(14) > li > a",
+
+        "authors_Lbl" : ":nth-child(14) > li > a",
+        "authors_Value1" : ".authors > :nth-child(1) > a",
+        "authors_Value2" : ".authors > :nth-child(2) > a",
+        
+        "docFolder_Lbl" : "#block-govuk-pins-content > :nth-child(21)",
+        "docFolder_Value1" : ":nth-child(22) > li > a", 
+        
+        "archived_Lbl" : ".archived > .label",
+        "archived_Value" : ".archived > .field-value",
+
+        "security_Classification_Lbl" : ":nth-child(26) > .label",
+        "security_Classification_Value" : ".field-value > a",
+
+        "documents_Tab" : ".horizontal-tab-button-1 > a > strong",
+
+        "stickyChkBx0" : "#edit-field-documents-0-sticky-override",
+        "stickyChkBx1" : "#edit-field-documents-1-sticky-override",
+        "stickyChkBx2" : "#edit-field-documents-2-sticky-override",
+        "stickyChkBx3" : "#edit-field-documents-3-sticky-override",
+
+        "edit_Tab" : ":nth-child(2) > .govuk-tabs__tab",
+        "manage_Tab" : ":nth-child(3) > .govuk-tabs__tab",    
+        "delete_Tab" : ":nth-child(4) > .govuk-tabs__tab",
+        "revisions_Tab" : ":nth-child(5) > .govuk-tabs__tab",
+        "clone_Tab" : ":nth-child(6) > .govuk-tabs__tab",
+        "develop_Tab" : ":nth-child(7) > .govuk-tabs__tab",
+
+        "delete_Btn" : "#edit-delete",
+        "newDocument_Btn" : "a.button",
+
+        "childDocument" : "[class*='views-field-title']",
+
+        "childDocumentTitle1" : ":nth-child(1) > .views-field-title > a",
+        "childDocumentTitle2" : ":nth-child(2) > .views-field-title > a",
+        "childDocumentTitle3" : ":nth-child(3) > .views-field-title > a",
+        "childDocumentTitle4" : ":nth-child(4) > .views-field-title > a",
+        "childDocumentDate1" : ":nth-child(1) > .views-field-field-date > time",
+        "childDocumentDate2" : ":nth-child(2) > .views-field-field-date > time",
+        "childDocumentDate3" : ":nth-child(3) > .views-field-field-date > time",
+        "childDocumentDate4" : ":nth-child(4) > .views-field-field-date > time",
+
+        "sortByDrpDwn" : "#edit-sort-by",
+        "sortOrderDrpDwn" : "#edit-sort-order",
+        "applyBtn" : "#edit-submit-compound-document-list",
+
+        "doc_Tab_Remove1" : "[id*='edit-field-documents-0-actions']",
+        "save_Btn" : "#edit-submit"
+
+    }    
+    
+}

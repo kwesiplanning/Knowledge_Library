@@ -1,0 +1,10 @@
+{
+    "locators":
+    {
+        "AccessLink" : ":nth-child(1) > .views-field-name > a",
+        "AccessIcon" : ":nth-child(1) > .views-field-nothing > .govuk-icon",
+
+        "PositiveAccessManagementLink" : ":nth-child(15) > [headers='view-title-table-column'] > a",
+        "PositiveAccessManagementIcon" : ":nth-child(15) > :nth-child(1) > a > .govuk-icon"
+    }
+}

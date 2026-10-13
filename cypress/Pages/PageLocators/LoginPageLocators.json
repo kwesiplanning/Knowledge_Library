@@ -1,0 +1,19 @@
+{
+    "locators" : {
+        "signInH1" : ".govuk-heading-l",
+        "signInTab" : ".govuk-tabs__list-item--selected > .govuk-tabs__tab",
+        "createNewAccountTab" : ":nth-child(2) > .govuk-tabs__tab",
+        "resetYourPasswordTab": ":nth-child(3) > .govuk-tabs__tab",
+        "userNameLabel" : ".js-form-type-textfield > .form-label",
+        "userNameInput" : "#edit-name",
+        "passwordLabel" : ".js-form-type-password > .form-label",
+        "passwordInput" : "#edit-pass",
+        "signInBtn" : "#edit-submit",  
+        "adminBtn" : "#toolbar-item-user",
+        "adminSignOutBtn" : "#toolbar-item-user-tray > .toolbar-lining > .toolbar-menu > :nth-child(3) > a",
+
+        "resetYourPasswordH1" : ".govuk-heading-l",
+        "emailAddress" : ":nth-child(2) > .govuk-tabs__tab",
+        "hintTxt": "#user-pass > p"
+    }
+}

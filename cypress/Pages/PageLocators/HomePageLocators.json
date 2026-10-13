@@ -1,0 +1,59 @@
+{   
+    "user":
+        {
+
+            "PInsGuidanceBtn" : ":nth-child(1) > :nth-child(1) > .box-link__bottom",
+            "TopicListsBtn" : ":nth-child(1) > :nth-child(2) > .box-link__bottom",
+            "LegislationandCaseLawBtn" : ":nth-child(1) > :nth-child(3) > .box-link__bottom",
+            "GovtGuidanceBtn" : ":nth-child(2) > :nth-child(1) > .box-link__bottom",
+            "NewAndUpdatedBtn" : ":nth-child(2) > :nth-child(2) > .box-link__bottom",
+            "JournalsBtn" : ":nth-child(2) > :nth-child(3) > .box-link__bottom",
+            "InfrastructureAndApplicationsBtn" : ":nth-child(3) > :nth-child(1) > .box-link__bottom",
+            "SOSAndSpecialistCaseWorkBtn" : ":nth-child(3) > :nth-child(2) > .box-link__bottom",
+            "LocalPlansBtn" : ":nth-child(3) > :nth-child(3) > .box-link__bottom",          
+        
+            "homePageLogoBtn" : ".govuk-header__logotype-organisation-fallback-image",
+            "itmLink" : "#navigation > :nth-child(1) > .govuk-service-navigation__link",
+            "pinsNotesLink" : ":nth-child(2) > .govuk-service-navigation__link",
+            "nppfLink" : ":nth-child(3) > .govuk-service-navigation__link",
+            "ppgLink" : ":nth-child(4) > .govuk-service-navigation__link",
+            "tcpa1990Link" : ":nth-child(5) > .govuk-service-navigation__link",
+            "gpdoLink" : ":nth-child(6) > .govuk-service-navigation__link",
+            "UCO" : ":nth-child(7) > .govuk-service-navigation__link",
+            "DMPO" : ":nth-child(8) > .govuk-service-navigation__link",
+            "pa2008Link" : ":nth-child(9) > .govuk-service-navigation__link",
+            "journalsLink" : ":nth-child(10) > .govuk-service-navigation__link",
+            "searchTextBox" : "#edit-keys",
+            "searchBtn" : ".gem-c-search__submit",
+
+            "manageBtnAdmin" : "#toolbar-item-administration",
+            "shortcutsBtnAdmin" : "#toolbar-item-shortcuts",
+            "userLoginBtnAdmin" : "#toolbar-item-user",
+            "develBtnAdmin" : "#toolbar-item-devel",
+
+            "iconBtnAdmin" : ".toolbar-icon-admin-toolbar-tools-help",
+            "contentBtnAdmin" : ".toolbar-icon-system-admin-content",
+            "structureBtnAdmin" : ".toolbar-icon-system-admin-structure",
+            "appearanceBtnAdmin" : ".toolbar-icon-system-themes-page",
+            "extendBtnAdmin" : ".toolbar-icon-system-modules-list",
+            "configurationBtnAdmin" : ".toolbar-icon-system-admin-config",
+            "peopleBtnAdmin" : ".toolbar-icon-entity-user-collection",
+            "reportsBtnAdmin" : ".toolbar-icon-system-admin-reports",
+
+            "AddContentsLinkAdmin" : ".govuk-header__branding__navigation > :nth-child(1) > a",
+            "managedContentLinkAdmin" : ".govuk-header__branding__navigation > :nth-child(2) > a",
+            "dataMaintenanceLinkAdmin" : ".govuk-header__branding__navigation > :nth-child(3) > a",
+            "browseLibraryAdmin" : ".govuk-header__branding__navigation > :nth-child(4) > a",
+            "myAccountLinkAdmin" : ".govuk-header__branding__navigation > :nth-child(5) > a",
+            "adminBarUser" : "#toolbar-item-user",
+            "signOutBtn" : "#toolbar-item-user-tray > .toolbar-lining > .toolbar-menu > :nth-child(3) > a",
+
+            "viewTabAdmin" : ".govuk-tabs__list-item--selected > .govuk-tabs__tab",
+            "editTabAdmin" : ":nth-child(2) > .govuk-tabs__tab",
+            "manageDisplayTabAdmin" : ":nth-child(3) > .govuk-tabs__tab",
+            "deleteTabAdmin" : ":nth-child(4) > .govuk-tabs__tab",
+            "revisionsTabAdmin" : ":nth-child(5) > .govuk-tabs__tab",
+            "cloneTabAdmin" : ":nth-child(6) > .govuk-tabs__tab",
+            "develTabAdmin" : ":nth-child(7) > .govuk-tabs__tab"
+        }
+}

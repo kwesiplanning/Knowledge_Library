@@ -1,0 +1,21 @@
+{
+    "locators":
+    {
+        "titleH1TEXT": ".page-title",
+        "articleLink" : ":nth-child(1) > .admin-item__title > .admin-item__link",
+        "basicPageLink" : ":nth-child(2) > .admin-item__title > .admin-item__link",
+        "classificationShortCutLink": ":nth-child(3) > .admin-item__title > .admin-item__link",
+        "compoundDocumentLink" : ":nth-child(4) > .admin-item__title > .admin-item__link",
+        "document": ":nth-child(5) > .admin-item__title > .admin-item__link",
+        "hardCopyLink": ":nth-child(6) > .admin-item__title > .admin-item__link",
+        "hardCopyLoanLink":":nth-child(7) > .admin-item__title > .admin-item__link",
+        "klHardcopyLink": ":nth-child(8) > .admin-item__title > .admin-item__link",
+        "pDFLink": ":nth-child(9) > .admin-item__title > .admin-item__link",
+        "shortCutLink": ":nth-child(10) > .admin-item__title > .admin-item__link",
+        "urlLink": ":nth-child(11) > .admin-item__title > .admin-item__link",
+        "virtualFolderLink":":nth-child(12) > .admin-item__title > .admin-item__link",
+        "webformLink":":nth-child(13) > .admin-item__title > .admin-item__link",
+
+        "mainPage":".page-content"
+    }
+}

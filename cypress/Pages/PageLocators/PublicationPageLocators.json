@@ -1,0 +1,24 @@
+{
+    "locators" :
+    {
+      "titleH1TEXT" : ".govuk-heading-l",
+
+      "pinAdviceText" : "01. PINS Advice",
+      "legAndCaseText" : "02. Legislation & Caselaw",
+      "govPubText" : "03. Government Publications",
+      "natInfraText" : "04. National Infrastructure",
+      "stakeHoldText" : "05. Stakeholders",
+      "jorPlanEnvText" : "06. Journal of Planning and Environment Law",
+      "townAndCounText" : "07. Town and Country Planning Journals",
+      "hardCopText" : "Hard Copies",
+
+       "pinAdviceLink" : ":nth-child(1) > .views-field-name > a",
+       "legAndCaseLink" : ":nth-child(2) > .views-field-name > a",
+       "govPubLink" : ":nth-child(3) > .views-field-name > a",
+       "natInfraLink" : ":nth-child(4) > .views-field-name > a",
+       "stakeHoldLink" : ":nth-child(5) > .views-field-name > a",
+       "jorPlanEnvLink" : ":nth-child(6) > .views-field-name > a",
+       "townAndCounLink" : ":nth-child(7) > .views-field-name > a",
+       "hardCopLink" : ":nth-child(8) > .views-field-name > a"
+    }
+}
